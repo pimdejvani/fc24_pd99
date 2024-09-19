@@ -1,0 +1,118 @@
+region,team,neame,ovr,pot1,pot2
+england,arsenal,odegaard,88,8,7.0
+england,arsenal,rice,87,6,7.0
+england,arsenal,saka,86,10,
+england,arsenal,garbiel,85,4,3.0
+england,arsenal,saliba,85,3,4.0
+england,arsenal,partey,84,7,6.0
+england,arsenal,martinelli,86,11,
+england,aston villa,martinez,85,1,
+england,chealsea,nkunku,85,9,11.0
+england,riverpool,salah,89,10,
+england,riverpool,van dijk,89,4,3.0
+england,riverpool,alisson,89,1,
+england,riverpool,robertson,86,5,
+england,riverpool,alexsander-arnold,86,2,
+england,riverpool,jota,85,9,11.0
+england,riverpool,diaz,84,11,
+england,riverpool,mac allister,84,7,8.0
+england,manchester united,fernandes,87,8,7.0
+england,manchester united,casemiro,85,6,
+england,manchester united,martinez,84,4,5.0
+england,manchester city,haaland,91,9,
+england,manchester city,de bruyne,91,8,7.0
+england,manchester city,rodri,90,6,7.0
+england,manchester city,dias,89,3,4.0
+england,manchester city,silva,88,8,9.0
+england,manchester city,ederson,88,1,
+england,manchester city,foden,87,10,8.0
+england,manchester city,grealish,85,11,
+england,manchester city,stones,85,3,4.0
+england,manchester city,walker,84,2,
+england,newcastle,trippier,85,2,
+england,newcastle,pope,84,1,
+england,newcastle,guimaraes,84,7,
+england,squr,son,87,11,
+england,squr,maddison,85,8,
+england,squr,vicario,84,1,
+france,paris sg,mbappe,91,11,9.0
+france,paris sg,marquinhos,87,4,3.0
+france,paris sg,donnarumma,87,1,
+france,paris sg,dembele,86,10,
+france,paris sg,hernandez,84,4,5.0
+france,paris sg,hakimi,84,2,
+german,borussia dortmun,kobel,87,1,
+german,borussia dortmun,brandt,84,8,11.0
+german,borussia dortmun,schlotterbeck,84,3,4.0
+german,borussia dortmun,hummel,84,3,6.0
+german,bayern munchen,kane,90,9,
+german,bayern munchen,kimmich,87,6,2.0
+german,bayern munchen,nueur,87,1,
+german,bayern munchen,musiala,86,8,9.0
+german,bayern munchen,sane,86,10,
+german,bayern munchen,coman,85,10,11.0
+german,bayern munchen,goretzka,85,7,6.0
+german,bayern munchen,kim min jea,84,3,4.0
+german,bayern munchen,de ligt,84,4,3.0
+german,leverkusen,wirtz,87,8,
+german,leverkusen,grimaldo,86,5,
+german,leverkusen,xhaka,84,6,
+german,leverkusen,tah,84,3,2.0
+italy,inter,martinez,88,9,10.0
+italy,inter,barella,86,7,6.0
+italy,inter,calhanoglu,86,7,
+italy,inter,sommer,86,1,
+italy,inter,bastoni,85,3,4.0
+italy,juventus,bremer,85,3,4.0
+italy,juventus,chiesa,84,11,
+italy,juventus,vlahovic,84,9,
+italy,juventus,rabiot,84,7,
+italy,latium,immobile,84,9,
+italy,latium,luis alberto,84,7,
+italy,milan,maignan,87,1,
+italy,milan,leao,86,11,
+italy,milan,hernandez,85,5,
+italy,milan,bennacer,84,7,6.0
+italy,milan,tomori,84,3,4.0
+italy,napoli,osimhen,87,9,
+italy,napoli,kvaratskhelia,86,11,
+italy,napoli,diclorenzo,85,2,
+italy,roma,dybala,86,9,10.0
+italy,roma,smalling,84,3,4.0
+italy,roma,lukaku,84,9,
+saudi arabia,al hilal,neyma,88,11,
+saudi arabia,al hilal,milinkovi-savic,86,7,
+saudi arabia,al ittihad,benzema,88,9,
+saudi arabia,al ittihad,kante,85,6,
+saudi arabia,al nassr,ronaldo,86,9,
+saudi arabia,al nassr,mane,85,11,
+spain,athletic,simon,85,1,
+spain,aletico de madrid,griezmann,88,9,10.0
+spain,aletico de madrid,oblak,88,1,
+spain,aletico de madrid,de paul,84,7,6.0
+spain,aletico de madrid,morata,84,9,
+spain,aletico de madrid,llorente,84,7,
+spain,aletico de madrid,koke,84,7,6.0
+spain,barcelona,lewandowski,90,9,
+spain,barcelona,ter stegem,89,1,
+spain,barcelona,de jong,87,7,6.0
+spain,barcelona,pedri,86,6,
+spain,barcelona,gundogun,86,7,
+spain,barcelona,cancelo,86,2,
+spain,barcelona,arujho,86,3,4.0
+spain,barcelona,kounde,85,3,2.0
+spain,barcelona,raphinha,84,11,
+spain,real madrid,courtois,90,1,
+spain,real madrid,vini jr.,89,11,
+spain,real madrid,bellingham,88,7,8.0
+spain,real madrid,valveede,88,8,7.0
+spain,real madrid,militao,86,3,4.0
+spain,real madrid,modric,86,7,8.0
+spain,real madrid,rudiger,86,3,4.0
+spain,real madrid,alaba,85,4,5.0
+spain,real madrid,rodrygo,85,10,
+spain,real madrid,tchouameni,84,6,
+spain,real madrid,carvajal,84,2,
+spain,real sociedad,merino,84,7,
+united states,inter miami,messi,89,9,10.0
+united states,inter miami,suarez,84,9,
